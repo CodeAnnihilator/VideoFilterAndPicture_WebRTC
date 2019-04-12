@@ -1,0 +1,22 @@
+{
+  "name": "videofilterandpicture_webrtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./js/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeAnnihilator/VideoFilterAndPicture_WebRTC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeAnnihilator/VideoFilterAndPicture_WebRTC/issues"
+  },
+  "homepage": "https://github.com/CodeAnnihilator/VideoFilterAndPicture_WebRTC#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
